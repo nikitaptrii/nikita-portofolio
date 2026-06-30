@@ -184,7 +184,18 @@ export const skills = [
   },
   {
     group: "Testing & Documentation",
-    items: ["Postman", "Vitest", "Laravel Dusk", "Requirement Analysis", "UML", "ERD"]
+    items: [
+      "Postman",
+      "Vitest",
+      "Laravel Dusk",
+      "Black Box Testing",
+      "User Acceptance Testing (UAT)",
+      "Requirement Analysis",
+      "Quality Assurance (QA)",
+      "UML",
+      "ERD",
+      "Technical Documentation"
+    ]
   },
   {
     group: "Tools & Collaboration",
