@@ -217,7 +217,7 @@ export const leadership = [
   {
     title: "Marketing and Branding Manager",
     organization: "Informatics Festival x Himatif Unpad",
-    period: "May 2024 — Oct 2024",
+    period: "May 2025 — Oct 2025",
     points: [
       "Increased Instagram followers by 400+ through targeted content strategy.",
       "Maintained weekly digital presence with at least 4 posts per week.",
@@ -225,9 +225,9 @@ export const leadership = [
     ]
   },
   {
-    title: "Marketing and Branding Manager",
+    title: "Project Supervisor",
     organization: "Informatics Festival x Himatif Unpad",
-    period: "Aug 2025 — Dec 2025",
+    period: "May 2024 — Oct 2024",
     points: [
       "Coordinated 1 department and 3 divisions to deliver IFEST 2024 for 400+ participants.",
       "Collaborated with 10+ committee leads and stakeholders to complete key milestones on time."
